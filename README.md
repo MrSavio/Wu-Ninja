@@ -1,11 +1,10 @@
-# UBER-Base-Project
-Unreal Engine base project with all the things I usually use.
+# Wu-Ninja
 
-Must Install Niagara UI renderer, restart editor, and auto-size comment box plugins - All other plugins should install automatically
+Must Install restart editor, and auto-size comment box plugins - All other plugins should install automatically
 
 ### High Concept
 
-<ONE PARA INTRO - THE GAME, THE OBJECTIVE, THE MAJOR ACTIVITY>
+A short but well crafted third person action game with a variety of mechanics to fight, platform, and race through levels to become a Black Belt Ninja.
 
 * <KEY FEATURES LIST - TOP 5>
 
@@ -21,14 +20,11 @@ Action               | Keyboard Control  | Gamepad Control
 ---                  |---                |---
 Movement             | AWSD              | Left stick
 Direction Aim        | Mouse position    | Right stick
-Basic Gun attack     | Left mouse click  | R2
-Basic Arm attack     | Right mouse click | L2
-(Eye Bomb)           | Q                 | R1
-Trigger Eye Bomb     | Right mouse click | R1
-Dash                 | Space             | L1
-Interact(Pick up)    | F                 | X
-UI                   | AWSD(Select)+ Enter(Confirm)+ESC(Cancel) | Left/Right stick(Select)+X(Confirm)+Square(Cancel)
-Heal                 | Ctrl              | Triangle
+Jump                 | Space Bar         | Bottom Face Button
+Crouch               | C                 | Left Bumper
+Basic Combo Attack   | Left mouse click  | Left Face Button
+Heavy Attack         | Right mouse click | Right Face Button
+Interact(Pick up)    | F                 | Top Face Button
 
 ### Debug tools/controls
 
