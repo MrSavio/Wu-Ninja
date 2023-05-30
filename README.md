@@ -10,9 +10,7 @@ A short but well crafted third person action game with a variety of mechanics to
 
 ### Documents
 
-[Game Design](<LINK TO GDD HERE>)
-
-[Technical Design](<LINK TO TDD HERE>)
+See "EUW_Documentation" Located in "Content>Documentation"
 
 ### Controls
 
@@ -23,8 +21,8 @@ Direction Aim        | Mouse position    | Right stick
 Jump                 | Space Bar         | Bottom Face Button
 Crouch               | C                 | Left Bumper
 Basic Combo Attack   | Left mouse click  | Left Face Button
-Heavy Attack         | Right mouse click | Right Face Button
-Interact(Pick up)    | F                 | Top Face Button
+Heavy Combo Attack   | Right mouse click | Right Face Button
+Interact(Pick up)    | F                 | Bottom Face Button
 
 ### Debug tools/controls
 
